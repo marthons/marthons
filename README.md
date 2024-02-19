@@ -7,7 +7,11 @@
 - ⚡ Curiosidade: Já trabalhei como cabeleireiro e também na área alimentícia como garçom e auxiliar de cozinha.
 
 ### Linguagens e Ferramentas:
-- HTML, CSS, JavaScript
+-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React, Bootstrap
+- **Segurança da Informação:** Cibersegurança, ética hacker
+- **Linguagens:** Python
+- **Ferramentas:** Git, GitHub
+
 
 ### Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marthons&show_icons=true&theme=radical)
