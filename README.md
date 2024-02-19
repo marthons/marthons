@@ -7,14 +7,17 @@
 - ⚡ Curiosidade: Já trabalhei como cabeleireiro e também na área alimentícia como garçom e auxiliar de cozinha.
 
 ### Linguagens e Ferramentas:
--- **Desenvolvimento Web:** HTML, CSS, JavaScript, React, Bootstrap
-- **Segurança da Informação:** Cibersegurança, ética hacker
-- **Linguagens:** Python
-- **Ferramentas:** Git, GitHub
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuário&layout=compact)
 
 ### Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marthons&show_icons=true&theme=radical)
+
+### Tecnologias
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Python](https://www.python.org/)
 
 ### Projetos em Destaque:
 - [[ProjIntegrador](https://github.com/marthons/ProjIntegrador)]
