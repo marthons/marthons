@@ -14,12 +14,13 @@
 
 ### Tecnologias
 
--- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) [TypeScript](https://www.typescriptlang.org/)
 - ![Python](https://img.icons8.com/color/48/000000/python.png) [Python](https://www.python.org/)
 - ![PLpgSQL](https://img.icons8.com/color/48/000000/sql.png) [PLpgSQL](https://www.postgresql.org/docs/current/plpgsql.html)
+
 
 ### Projetos em Destaque:
 - [[ProjIntegrador](https://github.com/marthons/ProjIntegrador)]
