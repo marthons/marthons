@@ -9,6 +9,9 @@
 ### Linguagens e Ferramentas:
 - HTML, CSS, JavaScript
 
+### Estatísticas do GitHub:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marthons&show_icons=true&theme=radical)
+
 ### Projetos em Destaque:
 - [[ProjIntegrador](https://github.com/marthons/ProjIntegrador)]
 
