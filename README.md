@@ -10,9 +10,9 @@
 - HTML, CSS, JavaScript
 
 ### Projetos em Destaque:
-- [[Adicione links para projetos relevantes](https://github.com/marthons/ProjIntegrador)]
+- [[ProjIntegrador](https://github.com/marthons/ProjIntegrador)]
 
 ### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-IltonMarchetti-blue)](www.linkedin.com/in/ilton-franklen-martins-marchetti-958788b5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IltonMarchetti-blue)](https://www.linkedin.com/in/ilton-franklen-martins-marchetti-958788b5/)
 
 ### Obrigado por visitar o meu perfil! 😊
