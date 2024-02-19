@@ -7,7 +7,7 @@
 - ⚡ Curiosidade: Já trabalhei como cabeleireiro e também na área alimentícia como garçom e auxiliar de cozinha.
 
 ### Linguagens e Ferramentas:
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuário&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marthons&layout=compact)
 
 ### Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marthons&show_icons=true&theme=radical)
